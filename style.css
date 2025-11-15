@@ -32,14 +32,6 @@ header h2 {
   margin: 10px 0;
 }
 
-header h3 {
-  
-font-size: 1.8em; /* or any size you prefer */
-  font-weight: normal; /* optional: adjust weight for consistency */
-  margin: 10px 0;
-
-}
-
 /* Nawigacja w nagłówku */
 nav ul {
     list-style: none;
